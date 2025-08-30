@@ -1,0 +1,5 @@
+name: GlitchSMPPlugin
+version: 1.0.0-SNAPSHOT
+main: com.dreamfirestudios.glitchsmpplugin.GlitchSMPPlugin
+depend: [ProtocolLib, LuckPerms, PlaceholderAPI, DreamCore, DreamConfig, DreamCommand]
+api-version: 1.21
